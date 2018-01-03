@@ -4,7 +4,6 @@ Language: C++
 Files: 1 cpp file
 Executable: Trivia_Game.cpp
 Libraries: iostream, vector
-Largest Run Time <= O(N)
 
 
 GAME QUIZ
