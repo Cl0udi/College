@@ -1,10 +1,9 @@
 /*
- *  Files: executable->main.cpp
- *
- *  Authors: Alfonso de la Morena and Thomas Diorio
- *  EE 3420
- *  Program: #8
- *
+ *  Robot_Vehicle
+ * 
+ *  Date Posted: 01/03/2018
+ *  Language: C++
+ *  Board:Kl46
  */
 
  #include "mbed.h"
