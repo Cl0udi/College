@@ -1,0 +1,6 @@
+This paper describes, in simple terms, the characteristics and behaviors of four different kind of transistor 
+circuits: Base, Emitter, Feedback and Voltage-Divider Bias Circuits. The goal being to give the reader an 
+understanding of when and how to use a certain bias to achieve a wanted result. Simulation results will come from 
+LTSpice SPICE Simulator. Data from LTSpice will be transferred to Microsoft Excel for the creation of graphs. 
+In the conclusion, a recommendation will be made as to which of the four discussed biases is recommended for most 
+practical applications based on the data that is analyzed. 
